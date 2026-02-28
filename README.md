@@ -27,9 +27,6 @@ Bank association
 
 The project is built around 30 structured SQL analytical tasks 
 
-30_SQL_Questions_Only_SA_Crimin…
-
- designed to simulate production-style data querying and reporting.
 
 ## Project Objectives
 
