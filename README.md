@@ -1,4 +1,4 @@
-# South Africa Criminal Database – princess edited
+# South Africa Criminal Database – Data Engineering Project
 ## Project Overview
 
 This project simulates a real-world criminal case analytics database using SQL.
